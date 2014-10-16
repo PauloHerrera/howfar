@@ -1,0 +1,24 @@
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Data.dll.config
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Data.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Data.pdb
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Model.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Model.pdb
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.xml
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\obj\Debug\Howfar.Data.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\obj\Debug\Howfar.Data.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Data\obj\Debug\Howfar.Data.pdb
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Data.dll.config
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Data.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Data.pdb
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Model.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\Howfar.Model.pdb
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.xml
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\obj\Debug\Howfar.Data.csprojResolveAssemblyReference.cache
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\obj\Debug\Howfar.Data.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Data\obj\Debug\Howfar.Data.pdb

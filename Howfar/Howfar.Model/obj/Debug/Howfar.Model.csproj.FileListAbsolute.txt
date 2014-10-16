@@ -1,0 +1,9 @@
+C:\Projetos\TesteKoin\Howfar\Howfar.Model\bin\Debug\Howfar.Model.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Model\bin\Debug\Howfar.Model.pdb
+C:\Projetos\TesteKoin\Howfar\Howfar.Model\obj\Debug\Howfar.Model.csprojResolveAssemblyReference.cache
+C:\Projetos\TesteKoin\Howfar\Howfar.Model\obj\Debug\Howfar.Model.dll
+C:\Projetos\TesteKoin\Howfar\Howfar.Model\obj\Debug\Howfar.Model.pdb
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Model\bin\Debug\Howfar.Model.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Model\bin\Debug\Howfar.Model.pdb
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Model\obj\Debug\Howfar.Model.dll
+C:\Projetos Paulo\TesteKoin\Howfar\Howfar.Model\obj\Debug\Howfar.Model.pdb
